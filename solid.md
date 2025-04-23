@@ -1,7 +1,7 @@
 # Principios SOLID
 Los principios SOLID son un conjunto de buenas prácticas para el diseño de software orientado a objetos, pensados para hacer el código más mantenible, comprensible y flexible. Estos principios son: 
 
-+ Single Responsibility Principle (SRP)
++ [Single Responsibility Principle (SRP)](https://github.com/RodrigoRivas89/Principio-de-Responsabilidad-nica-SRP-/blob/main/srp.md#principio-de-responsabilidad-%C3%BAnica-srp)
 + Open/Closed Principle (OCP)
 + Liskov Substitution Principle (LSP)
 + Interface Segregation Principle (ISP)
