@@ -3,6 +3,6 @@ Los principios SOLID son un conjunto de buenas prácticas para el diseño de sof
 
 + [Single Responsibility Principle (SRP)](https://github.com/RodrigoRivas89/Principio-de-Responsabilidad-nica-SRP-/blob/main/srp.md#principio-de-responsabilidad-%C3%BAnica-srp)
 + [Open/Closed Principle (OCP)](https://github.com/RodrigoRivas89/Principio-de-Abierto-Cerrado-OCP-/blob/main/ocp.md#principio-de-abiertocerrado-ocp)
-+ Liskov Substitution Principle (LSP)
++ [Liskov Substitution Principle (LSP)](https://github.com/RodrigoRivas89/Principio-de-Sustituci-n-de-Liskov-LSP-/blob/main/lsp.md#principio-de-sustitucion-de-liskov-lsp)
 + Interface Segregation Principle (ISP)
 + Dependency Inversion Principle (DIP)
